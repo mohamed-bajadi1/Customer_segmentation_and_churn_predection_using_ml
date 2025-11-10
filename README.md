@@ -57,6 +57,7 @@ Public datasets such as:
 ---
 
 ## 🚫 Constraints
+
 - Use **only classical ML algorithms** (no deep learning)  
 - Apply **cross-validation** and **hyperparameter tuning**  
 - Follow good coding and documentation practices  
@@ -65,6 +66,7 @@ Public datasets such as:
 ---
 
 ## 📈 Expected Outcomes
+
 - Insightful customer segments to support marketing strategies  
 - Predictive model identifying customers at risk of churn  
 - Data-driven recommendations for improving customer retention  
@@ -72,9 +74,9 @@ Public datasets such as:
 ---
 
 ## 👥 Authors
-Project Team — *`Mohamed Bajadi` & `Mustapha Zmirli`* 
-Supervised by: *Pr. Abdessamad EL BOUSHAKI*
-*Machine Learning Project 2025*
+
+- Project Team — *`Mohamed Bajadi` & `Mustapha Zmirli`* 
+- Supervised by: *Pr. Abdessamad EL BOUSHAKI*
 ---
 
 ## 🧾 License
@@ -82,3 +84,4 @@ This project is for **educational and research purposes only**.
 Feel free to use or modify with appropriate attribution.
 
 ---
+- *Machine Learning Project 2025*
